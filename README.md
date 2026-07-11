@@ -20,6 +20,12 @@ AI-powered customer support system with LangGraph workflow orchestration, RAG (R
 - OpenAI API key
 - Domain name (optional, for HTTPS)
 
+### Local Development
+
+For running the application locally, see:
+
+**➡️ deployment/local/README.md**
+
 ### Deployment on Cloud Ubuntu VM
 
 1. **Clone the repository:**
