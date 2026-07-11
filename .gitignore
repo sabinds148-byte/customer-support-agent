@@ -1,0 +1,33 @@
+# Environment variables
+.env
+*.env
+!*.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+
+# Logs
+*.log
+agent.log
+
+# Knowledge base / data (generated artifacts)
+backend/knowledge_base/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Zone.Identifier (Windows/WSL download marker files)
+*:Zone.Identifier
